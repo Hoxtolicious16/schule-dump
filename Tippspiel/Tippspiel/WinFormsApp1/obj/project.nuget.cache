@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NNIasPq5bn4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emanuel-Tiberiu Petr\\Desktop\\schule c#\\Tippspiel\\Tippspiel\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emanuel-Tiberiu Petr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Emanuel-Tiberiu Petr\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Emanuel-Tiberiu Petr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Emanuel-Tiberiu Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
