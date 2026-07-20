@@ -1,0 +1,10 @@
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Gymreps\obj\Debug\Gymreps.csproj.AssemblyReference.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Gymreps\obj\Debug\Gymreps.Form1.resources
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Gymreps\obj\Debug\Gymreps.Properties.Resources.resources
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Gymreps\obj\Debug\Gymreps.csproj.GenerateResource.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Gymreps\obj\Debug\Gymreps.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Gymreps\bin\Debug\Gymreps.exe.config
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Gymreps\bin\Debug\Gymreps.exe
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Gymreps\bin\Debug\Gymreps.pdb
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Gymreps\obj\Debug\Gymreps.exe
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Gymreps\obj\Debug\Gymreps.pdb
