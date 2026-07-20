@@ -1,0 +1,10 @@
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pasch\bin\Debug\Pasch.exe.config
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pasch\bin\Debug\Pasch.exe
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pasch\bin\Debug\Pasch.pdb
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pasch\obj\Debug\Pasch.csproj.AssemblyReference.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pasch\obj\Debug\Pasch.Form1.resources
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pasch\obj\Debug\Pasch.Properties.Resources.resources
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pasch\obj\Debug\Pasch.csproj.GenerateResource.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pasch\obj\Debug\Pasch.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pasch\obj\Debug\Pasch.exe
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pasch\obj\Debug\Pasch.pdb
