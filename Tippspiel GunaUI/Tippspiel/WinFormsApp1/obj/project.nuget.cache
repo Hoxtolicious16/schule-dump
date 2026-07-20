@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7eu4d/FIpis=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emanuel-Tiberiu Petr\\Desktop\\schule c#\\Tippspiel GunaUI\\Tippspiel\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emanuel-Tiberiu Petr\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.8\\guna.ui2.winforms.2.0.4.8.nupkg.sha512",
+    "C:\\Users\\Emanuel-Tiberiu Petr\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Emanuel-Tiberiu Petr\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512",
+    "C:\\Users\\Emanuel-Tiberiu Petr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Emanuel-Tiberiu Petr\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Emanuel-Tiberiu Petr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Emanuel-Tiberiu Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

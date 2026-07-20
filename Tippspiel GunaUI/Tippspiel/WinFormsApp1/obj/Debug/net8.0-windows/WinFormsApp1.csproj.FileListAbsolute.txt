@@ -1,0 +1,101 @@
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MatthiasReimann\OneDrive - Detmold\2025\IT\IT1a\c#\07 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08 Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\User\OneDrive - Detmold\2025\IT\IT1a\c#\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\08a Tippspiel leer\08a Tippspiel leer\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Tippspiel GunaUI\Tippspiel\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
