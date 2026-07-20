@@ -1,0 +1,10 @@
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pizza\Geometrie\Geometrie\bin\Debug\Geometrie.exe.config
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pizza\Geometrie\Geometrie\bin\Debug\Geometrie.exe
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pizza\Geometrie\Geometrie\bin\Debug\Geometrie.pdb
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pizza\Geometrie\Geometrie\obj\Debug\Geometrie.csproj.AssemblyReference.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pizza\Geometrie\Geometrie\obj\Debug\Geometrie.Form1.resources
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pizza\Geometrie\Geometrie\obj\Debug\Geometrie.Properties.Resources.resources
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pizza\Geometrie\Geometrie\obj\Debug\Geometrie.csproj.GenerateResource.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pizza\Geometrie\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pizza\Geometrie\Geometrie\obj\Debug\Geometrie.exe
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Pizza\Geometrie\Geometrie\obj\Debug\Geometrie.pdb
