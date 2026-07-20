@@ -1,0 +1,10 @@
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Würfelaufgabe (07.07)\bin\Debug\Würfelaufgabe (07.07).exe.config
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Würfelaufgabe (07.07)\bin\Debug\Würfelaufgabe (07.07).exe
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Würfelaufgabe (07.07)\bin\Debug\Würfelaufgabe (07.07).pdb
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Würfelaufgabe (07.07)\obj\Debug\Würfelaufgabe (07.07).csproj.AssemblyReference.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Würfelaufgabe (07.07)\obj\Debug\Würfelaufgabe__07._07_.Form1.resources
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Würfelaufgabe (07.07)\obj\Debug\Würfelaufgabe__07._07_.Properties.Resources.resources
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Würfelaufgabe (07.07)\obj\Debug\Würfelaufgabe (07.07).csproj.GenerateResource.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Würfelaufgabe (07.07)\obj\Debug\Würfelaufgabe (07.07).csproj.CoreCompileInputs.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Würfelaufgabe (07.07)\obj\Debug\Würfelaufgabe (07.07).exe
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Würfelaufgabe (07.07)\obj\Debug\Würfelaufgabe (07.07).pdb
