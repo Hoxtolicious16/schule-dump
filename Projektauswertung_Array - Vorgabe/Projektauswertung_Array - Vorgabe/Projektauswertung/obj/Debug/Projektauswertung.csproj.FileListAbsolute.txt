@@ -1,0 +1,125 @@
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\Projektauswertung\Projektauswertung\bin\Debug\Projektauswertung.exe.config
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\Projektauswertung\Projektauswertung\bin\Debug\Projektauswertung.exe
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\Projektauswertung\Projektauswertung\bin\Debug\Projektauswertung.pdb
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.AssemblyReference.cache
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.Form1.resources
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.Properties.Resources.resources
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.GenerateResource.cache
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.CoreCompileInputs.cache
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.exe
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.pdb
+H:\CloudStation\2022\FI\Projektauswertung\Projektauswertung\bin\Debug\Projektauswertung.exe.config
+H:\CloudStation\2022\FI\Projektauswertung\Projektauswertung\bin\Debug\Projektauswertung.exe
+H:\CloudStation\2022\FI\Projektauswertung\Projektauswertung\bin\Debug\Projektauswertung.pdb
+H:\CloudStation\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.AssemblyReference.cache
+H:\CloudStation\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.SuggestedBindingRedirects.cache
+H:\CloudStation\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.Form1.resources
+H:\CloudStation\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.Properties.Resources.resources
+H:\CloudStation\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.GenerateResource.cache
+H:\CloudStation\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.CoreCompileInputs.cache
+H:\CloudStation\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.exe
+H:\CloudStation\2022\FI\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.pdb
+L:\source\Projektauswertung\Projektauswertung\bin\Debug\Projektauswertung.exe.config
+L:\source\Projektauswertung\Projektauswertung\bin\Debug\Projektauswertung.exe
+L:\source\Projektauswertung\Projektauswertung\bin\Debug\Projektauswertung.pdb
+L:\source\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.AssemblyReference.cache
+L:\source\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.SuggestedBindingRedirects.cache
+L:\source\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.Form1.resources
+L:\source\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.Properties.Resources.resources
+L:\source\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.GenerateResource.cache
+L:\source\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.CoreCompileInputs.cache
+L:\source\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.exe
+L:\source\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.pdb
+C:\Users\wksta.000\Desktop\Projektauswertung\Projektauswertung\bin\Debug\Projektauswertung.exe.config
+C:\Users\wksta.000\Desktop\Projektauswertung\Projektauswertung\bin\Debug\Projektauswertung.exe
+C:\Users\wksta.000\Desktop\Projektauswertung\Projektauswertung\bin\Debug\Projektauswertung.pdb
+C:\Users\wksta.000\Desktop\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.AssemblyReference.cache
+C:\Users\wksta.000\Desktop\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.SuggestedBindingRedirects.cache
+C:\Users\wksta.000\Desktop\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.Form1.resources
+C:\Users\wksta.000\Desktop\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.Properties.Resources.resources
+C:\Users\wksta.000\Desktop\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.GenerateResource.cache
+C:\Users\wksta.000\Desktop\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.csproj.CoreCompileInputs.cache
+C:\Users\wksta.000\Desktop\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.exe
+C:\Users\wksta.000\Desktop\Projektauswertung\Projektauswertung\obj\Debug\Projektauswertung.pdb
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\Projektauswertung2\Projektauswertung\bin\Debug\Projektauswertung.exe.config
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\Projektauswertung2\Projektauswertung\bin\Debug\Projektauswertung.exe
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\Projektauswertung2\Projektauswertung\bin\Debug\Projektauswertung.pdb
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.csproj.AssemblyReference.cache
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.Form1.resources
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.Properties.Resources.resources
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.csproj.GenerateResource.cache
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.csproj.CoreCompileInputs.cache
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.exe
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.pdb
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.csproj.SuggestedBindingRedirects.cache
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\02Praktikumsauswertung\Projektauswertung2\Projektauswertung\bin\Debug\Projektauswertung.exe.config
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\02Praktikumsauswertung\Projektauswertung2\Projektauswertung\bin\Debug\Projektauswertung.exe
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\02Praktikumsauswertung\Projektauswertung2\Projektauswertung\bin\Debug\Projektauswertung.pdb
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\02Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.csproj.AssemblyReference.cache
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\02Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.csproj.SuggestedBindingRedirects.cache
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\02Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.Form1.resources
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\02Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.Properties.Resources.resources
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\02Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.csproj.GenerateResource.cache
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\02Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.csproj.CoreCompileInputs.cache
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\02Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.exe
+C:\Users\MatthiasReimann\PaedCloud\2022\FI\FI2a\02Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.pdb
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung2\Projektauswertung\bin\Debug\Projektauswertung.exe.config
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung2\Projektauswertung\bin\Debug\Projektauswertung.exe
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung2\Projektauswertung\bin\Debug\Projektauswertung.pdb
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.csproj.AssemblyReference.cache
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.Form1.resources
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.Properties.Resources.resources
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.csproj.GenerateResource.cache
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.csproj.CoreCompileInputs.cache
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.exe
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung2\Projektauswertung\obj\Debug\Projektauswertung.pdb
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_leer\Projektauswertung\bin\Debug\Projektauswertung.exe.config
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_leer\Projektauswertung\bin\Debug\Projektauswertung.exe
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_leer\Projektauswertung\bin\Debug\Projektauswertung.pdb
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_leer\Projektauswertung\obj\Debug\Projektauswertung.csproj.AssemblyReference.cache
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_leer\Projektauswertung\obj\Debug\Projektauswertung.Form1.resources
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_leer\Projektauswertung\obj\Debug\Projektauswertung.Properties.Resources.resources
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_leer\Projektauswertung\obj\Debug\Projektauswertung.csproj.GenerateResource.cache
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_leer\Projektauswertung\obj\Debug\Projektauswertung.csproj.CoreCompileInputs.cache
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_leer\Projektauswertung\obj\Debug\Projektauswertung.exe
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_leer\Projektauswertung\obj\Debug\Projektauswertung.pdb
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\bin\Debug\Projektauswertung.exe.config
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\bin\Debug\Projektauswertung.exe
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\bin\Debug\Projektauswertung.pdb
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.csproj.AssemblyReference.cache
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.Form1.resources
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.Properties.Resources.resources
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.csproj.GenerateResource.cache
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.csproj.CoreCompileInputs.cache
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.exe
+C:\Users\User\CloudStation\2023\FI\FI2a\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.pdb
+X:\Drive\2024\FFB\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\bin\Debug\Projektauswertung.exe.config
+X:\Drive\2024\FFB\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\bin\Debug\Projektauswertung.exe
+X:\Drive\2024\FFB\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\bin\Debug\Projektauswertung.pdb
+X:\Drive\2024\FFB\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.csproj.AssemblyReference.cache
+X:\Drive\2024\FFB\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.Form1.resources
+X:\Drive\2024\FFB\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.Properties.Resources.resources
+X:\Drive\2024\FFB\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.csproj.GenerateResource.cache
+X:\Drive\2024\FFB\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.csproj.CoreCompileInputs.cache
+X:\Drive\2024\FFB\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.exe
+X:\Drive\2024\FFB\05 Praktikumsauswertung\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.pdb
+C:\Users\User\OneDrive - Detmold\2024\IT\2024_IT1is_SD\C#\11 Praktikumsauswertung Klausur\Projektauswertung_Array\Projektauswertung\bin\Debug\Projektauswertung.exe.config
+C:\Users\User\OneDrive - Detmold\2024\IT\2024_IT1is_SD\C#\11 Praktikumsauswertung Klausur\Projektauswertung_Array\Projektauswertung\bin\Debug\Projektauswertung.exe
+C:\Users\User\OneDrive - Detmold\2024\IT\2024_IT1is_SD\C#\11 Praktikumsauswertung Klausur\Projektauswertung_Array\Projektauswertung\bin\Debug\Projektauswertung.pdb
+C:\Users\User\OneDrive - Detmold\2024\IT\2024_IT1is_SD\C#\11 Praktikumsauswertung Klausur\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Detmold\2024\IT\2024_IT1is_SD\C#\11 Praktikumsauswertung Klausur\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.Form1.resources
+C:\Users\User\OneDrive - Detmold\2024\IT\2024_IT1is_SD\C#\11 Praktikumsauswertung Klausur\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.Properties.Resources.resources
+C:\Users\User\OneDrive - Detmold\2024\IT\2024_IT1is_SD\C#\11 Praktikumsauswertung Klausur\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Detmold\2024\IT\2024_IT1is_SD\C#\11 Praktikumsauswertung Klausur\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Detmold\2024\IT\2024_IT1is_SD\C#\11 Praktikumsauswertung Klausur\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.exe
+C:\Users\User\OneDrive - Detmold\2024\IT\2024_IT1is_SD\C#\11 Praktikumsauswertung Klausur\Projektauswertung_Array\Projektauswertung\obj\Debug\Projektauswertung.pdb
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Projektauswertung_Array - Vorgabe\Projektauswertung_Array - Vorgabe\Projektauswertung\obj\Debug\Projektauswertung.csproj.AssemblyReference.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Projektauswertung_Array - Vorgabe\Projektauswertung_Array - Vorgabe\Projektauswertung\obj\Debug\Projektauswertung.Form1.resources
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Projektauswertung_Array - Vorgabe\Projektauswertung_Array - Vorgabe\Projektauswertung\obj\Debug\Projektauswertung.Properties.Resources.resources
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Projektauswertung_Array - Vorgabe\Projektauswertung_Array - Vorgabe\Projektauswertung\obj\Debug\Projektauswertung.csproj.GenerateResource.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Projektauswertung_Array - Vorgabe\Projektauswertung_Array - Vorgabe\Projektauswertung\obj\Debug\Projektauswertung.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Projektauswertung_Array - Vorgabe\Projektauswertung_Array - Vorgabe\Projektauswertung\obj\Debug\Projektauswertung.exe
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Projektauswertung_Array - Vorgabe\Projektauswertung_Array - Vorgabe\Projektauswertung\obj\Debug\Projektauswertung.pdb
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Projektauswertung_Array - Vorgabe\Projektauswertung_Array - Vorgabe\Projektauswertung\bin\Debug\Projektauswertung.exe.config
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Projektauswertung_Array - Vorgabe\Projektauswertung_Array - Vorgabe\Projektauswertung\bin\Debug\Projektauswertung.exe
+C:\Users\Emanuel-Tiberiu Petr\Desktop\schule c#\Projektauswertung_Array - Vorgabe\Projektauswertung_Array - Vorgabe\Projektauswertung\bin\Debug\Projektauswertung.pdb
